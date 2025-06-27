@@ -1,0 +1,27 @@
+a {
+    color: rgb(145, 156, 255);
+    font-weight: bolder;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+h1 {
+    font-style: normal;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3 {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.subtext {
+    color: white;
+}
+h6 {
+    font-style: italic;
+}
+div {
+    justify-items: center;
+}
